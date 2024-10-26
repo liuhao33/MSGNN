@@ -78,6 +78,7 @@ python run_DBLP.py --repeat 1 --patience 5
 ```
 
 `--repeat`: the number of repeats.
+
 `--patience`: the number of patience of early stopping.
 
 ### Ablation
